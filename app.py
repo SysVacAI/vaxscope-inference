@@ -252,22 +252,22 @@ FLAW_EXPLANATIONS = {
 }
 
 ITEM_SHORT = {
-    "Item 1 - PICO Components Present":         "1. Research questions include PICO?",
-    "Item 2 - Protocol / PROSPERO":             "2. Registered in PROSPERO?",
-    "Item 3 - Study Design Explanation":        "3. Study design selection explained?",
-    "Item 4 - Comprehensive Literature Search": "4. Comprehensive search conducted?",
-    "Item 5 - Study Selection in Duplicate":    "5. Selection in duplicate?",
-    "Item 6 - Duplicate Data Extraction":       "6. Data extraction in duplicate?",
-    "Item 7 - Excluded Studies List":           "7. Excluded studies listed with reasons?",
-    "Item 8 - Included Studies Description":    "8. Included studies described adequately?",
-    "Item 9 - RoB Assessment Technique":        "9. Satisfactory RoB technique used?",
-    "Item 10 - Funding Sources Reported":       "10. Funding sources reported?",
-    "Item 11 - Statistical Combination Methods":"11. Appropriate statistical methods?",
-    "Item 12 - RoB Impact on Findings":         "12. RoB impact on findings considered?",
-    "Item 13 - RoB in Discussion":              "13. RoB considered in discussion?",
-    "Item 14 - Heterogeneity Explained":        "14. Heterogeneity explained?",
-    "Item 15 - Publication Bias Investigation": "15. Publication bias investigated?",
-    "Item 16 - Conflict of Interest Disclosure":"16. Conflicts of interest disclosed?",
+    "Item 1 - PICO Components Present":         "Item1. Research questions include PICO?",
+    "Item 2 - Protocol / PROSPERO":             "Item2. Registered in PROSPERO?",
+    "Item 3 - Study Design Explanation":        "Item3. Study design selection explained?",
+    "Item 4 - Comprehensive Literature Search": "Item4. Comprehensive search conducted?",
+    "Item 5 - Study Selection in Duplicate":    "Item5. Selection in duplicate?",
+    "Item 6 - Duplicate Data Extraction":       "Item6. Data extraction in duplicate?",
+    "Item 7 - Excluded Studies List":           "Item7. Excluded studies listed with reasons?",
+    "Item 8 - Included Studies Description":    "Item8. Included studies described adequately?",
+    "Item 9 - RoB Assessment Technique":        "Item9. Satisfactory RoB technique used?",
+    "Item 10 - Funding Sources Reported":       "Item10. Funding sources reported?",
+    "Item 11 - Statistical Combination Methods":"Item11. Appropriate statistical methods?",
+    "Item 12 - RoB Impact on Findings":         "Item12. RoB impact on findings considered?",
+    "Item 13 - RoB in Discussion":              "Item13. RoB considered in discussion?",
+    "Item 14 - Heterogeneity Explained":        "Item14. Heterogeneity explained?",
+    "Item 15 - Publication Bias Investigation": "Item15. Publication bias investigated?",
+    "Item 16 - Conflict of Interest Disclosure":"Item16. Conflicts of interest disclosed?",
 }
 
 
