@@ -6,6 +6,16 @@ The project focuses on structured information extraction from immunization syste
 
 ---
 
+## Dashboard Preview
+
+### Review Explorer
+
+![Review Explorer](assets/explorer.jpg)
+
+### Single Review Analysis
+
+![Review Analysis](assets/review_detail.jpg)
+
 ## Features
 
 - Review exploration interface
