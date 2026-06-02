@@ -377,7 +377,7 @@ def show_review():
                 unsafe_allow_html=True
             )
 
-    # ── Left (Abstract + Overview) / Right (AMSTAR) — yan yana ──
+    # ── Left (Abstract + Overview) / Right (AMSTAR) ──
     left, right = st.columns([2, 1], gap="large")
 
     with left:
@@ -385,7 +385,7 @@ def show_review():
         st.markdown(f"<div class='abstract-box'>{sample['abstract']}</div>", unsafe_allow_html=True)
         st.write("")
 
-        # Study Overview — sol sütunda abstractın altında
+        # Study Overview — 
         st.markdown("<div class='section-title'>Study Overview</div>", unsafe_allow_html=True)
         s1, s2, s3 = st.columns(3)
         participants = prediction.get('num_participants')
