@@ -10,11 +10,17 @@ The project focuses on structured information extraction from immunization syste
 
 ### Review Explorer
 
+Browse and inspect immunization systematic reviews and extraction outputs.
 ![Review Explorer](assets/explorer.jpg)
 
 ### Single Review Analysis
 
+Detailed review-level evidence extraction and AMSTAR-2 quality assessment.
 ![Review Analysis](assets/review_detail.jpg)
+
+## Live Demo
+
+https://vaxscope.streamlit.app
 
 ## Features
 
@@ -115,6 +121,6 @@ The current implementation focuses on:
 
 ## License
 
-## License
-
 This repository is provided for research, and demonstration purposes.
+
+
