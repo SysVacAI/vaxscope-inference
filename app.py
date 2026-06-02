@@ -358,7 +358,7 @@ def show_review():
         unsafe_allow_html=True
     )
 
-    # ── Publication Details — başlığın altında yatay ──
+    # ── Publication Details  ──
     pub = sample.get("publication", {})
     if pub:
         authors = pub.get("authors", "")
