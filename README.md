@@ -75,6 +75,12 @@ Model checkpoint files are distributed separately due to size constraints.
 
 ---
 
+## Inference Strategy
+
+Classification labels are predicted from review titles and abstracts using a fine-tuned PubMedBERT model. Numeric evidence fields are extracted through a QA- and rule-based pipeline using full-text content when available.
+
+---
+
 ## Domain
 
 The current implementation focuses on:
