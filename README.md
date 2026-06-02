@@ -67,7 +67,7 @@ Inference pipeline containing:
 
 #### sample_reviews.py
 
-Example review collection used for demonstration and interface testing.
+Curated review collection containing model-generated extraction outputs and AMSTAR-2 assessments for demonstration and exploration purposes.
 
 ---
 
