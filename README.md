@@ -115,4 +115,6 @@ The current implementation focuses on:
 
 ## License
 
-Research and demonstration purposes.
+## License
+
+This repository is provided for research, and demonstration purposes.
