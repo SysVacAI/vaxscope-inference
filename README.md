@@ -112,10 +112,15 @@ The current implementation focuses on:
 
 - Python
 - PyTorch
-- Transformers
+- Hugging Face Transformers
 - Streamlit
-- PubMedBERT
-- RoBERTa QA
+
+---
+
+## Models
+
+- PubMedBERT (review characterization)
+- RoBERTa-SQuAD2 (slot extraction)
 
 ---
 
