@@ -46,7 +46,7 @@ https://vaxscope.streamlit.app
 ├── app.py
 ├── sample_reviews.py
 ├── vaxscope_inference.py
-├── requirements.txt
+├── assets/
 └── README.md
 ```
 
