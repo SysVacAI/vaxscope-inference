@@ -1,9 +1,6 @@
-# vaxscope-inference
-Inference pipeline for VaxScope - structured evidence extraction from immunization systematic reviews.
-
 # VaxScope Inference
 
-VaxScope Inference is an AI-assisted evidence extraction component developed within the SYSVAC-AI ecosystem.
+VaxScope Inference is an AI-assisted evidence extraction pipeline developed within the SYSVAC-AI ecosystem.
 
 The project focuses on structured information extraction from immunization systematic reviews and meta-analyses, providing review characterization, evidence profiling, and methodological quality assessment outputs.
 
